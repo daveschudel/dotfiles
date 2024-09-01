@@ -2,7 +2,6 @@
 
 cp $HOME/.bashrc .
 cp $HOME/.bash_profile .
-cp $HOME/.bash_logout .
 cp $HOME/.zshrc .
 cp $HOME/.gitignore .
 cp $HOME/.hushlogin .
